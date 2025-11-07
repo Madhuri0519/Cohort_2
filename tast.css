@@ -1,0 +1,218 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+html,body{
+    background-color:rgb(232, 227, 217);
+    height:100%;
+    width: 100%;
+
+}
+#ren{
+
+    height: 30%;;
+    background-color:rgba(5, 16, 33, 0.893);
+}
+h1{
+    color:white;
+    text-align:center;
+    padding-top:40px;
+    font-size:70px;
+    
+    
+}
+p{
+    color :white;
+    text-align:center;
+    font-style:inherit;
+    font-size:20px;
+
+}
+#win{
+    margin-top:15px;
+    height:140px;
+    background-color: white;
+    margin-left:60px;
+    margin-right:60px;
+}
+h2{
+    text-align: center;
+    font-size:20px;
+    padding-top:30px;
+}
+#kiran{
+    text-align:center;
+    font-size:15px;
+    color:black;
+}
+#des{
+    margin-top:15px;
+    background-color:rgb(181, 217, 232);
+    height:160px;
+    margin-right: 60px;
+    margin-left: 60px;
+
+}
+
+
+#wer{
+    background-color:white;
+    margin-right:150px ;
+    margin-left:150px;
+    height:30px;
+    color:black;
+    font-size:15px ;
+    text-align:center;
+    margin-top:10px;
+    padding-top:10px ;
+}
+#net{
+    background-color:white;
+    margin-right:150px ;
+    margin-left:150px;
+    height:30px;
+    color:black;
+    font-size:15px ;
+    text-align:center;
+    margin-top:10px;
+    padding-top:10px ;
+}
+#skii{
+    margin-top:15px;
+    background-color:rgb(236, 236, 154);
+    height:250px;
+    margin-right: 60px;
+    margin-left: 60px;
+}
+#jav{
+    background-color:white;
+    margin-right:150px ;
+    margin-left:150px;
+    height:30px;
+    color:black;
+    font-size:10px ;
+    text-align:center;
+    margin-top:10px;
+    padding-top:10px ;
+}
+#pav{
+    background-color:white;
+    margin-right:150px ;
+    margin-left:150px;
+    height:30px;
+    color:black;
+    font-size:10px ;
+    text-align:center;
+    margin-top:10px;
+    padding-top:10px ;
+}
+#dav{
+    background-color:white;
+    margin-right:150px ;
+    margin-left:150px;
+    height:30px;
+    color:black;
+    font-size:10px ;
+    text-align:center;
+    margin-top:10px;
+    padding-top:10px ;
+}
+#sav{
+    background-color:white;
+    margin-right:150px ;
+    margin-left:150px;
+    height:30px;
+    color:black;
+    font-size:10px ;
+    text-align:center;
+    margin-top:10px;
+    padding-top:10px ;
+}
+#pro{
+margin-top:15px;
+    background-color:rgb(217, 217, 249);
+    height:200px;
+    margin-right: 60px;
+    margin-left: 60px;
+}
+#awe{
+    background-color:white;
+    margin-right:150px ;
+    margin-left:150px;
+    height:30px;
+    color:black;
+    font-size:15px ;
+    text-align:center;
+    margin-top:10px;
+    padding-top:10px;
+    font-style: italic;
+
+}
+#mad{
+    background-color:white;
+    margin-right:150px ;
+    margin-left:150px;
+    height:30px;
+    color:black;
+    font-size:15px ;
+    text-align:center;
+    margin-top:10px;
+    padding-top:10px;
+    font-style: italic;
+}
+#nad{
+    background-color:white;
+    margin-right:150px ;
+    margin-left:150px;
+    height:30px;
+    color:black;
+    font-size:15px ;
+    text-align:center;
+    margin-top:10px;
+    padding-top:10px;
+    font-style: italic;
+}
+#insta{
+    margin-top:15px;
+    background-color:rgb(203, 239, 203);
+    height:200px;
+    margin-right: 60px;
+    margin-left: 60px;
+}
+#emi{
+    background-color:white;
+    margin-right:150px ;
+    margin-left:150px;
+    height:30px;
+    color:black;
+    font-size:12px ;
+    text-align:center;
+    margin-top:10px;
+    padding-top:10px;
+}
+#pho{
+    background-color:white;
+    margin-right:150px ;
+    margin-left:150px;
+    height:30px;
+    color:black;
+    font-size:12px ;
+    text-align:center;
+    margin-top:10px;
+    padding-top:10px;
+}
+#ing{
+    background-color:white;
+    margin-right:150px ;
+    margin-left:150px;
+    height:30px;
+    color:black;
+    font-size:12px ;
+    text-align:center;
+    margin-top:10px;
+    padding-top:10px;
+}
+
+
+
